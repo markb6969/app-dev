@@ -1,0 +1,19 @@
+<resources>
+<string name="app_name">Scrolling Text</string>
+<string name="article_title">Exercise and Fitness</string>
+<string name="article_subtitle">Exercising regularly, every day</string><string name="hyperlink"><a href="https://www.health.harvard.edu/exercise-and-fitness/the-4-most-important-types-of-exercise"><b>What are the best types of exercise?</b></a> \n\n</string>
+<string name="article_text">
+
+        While there are endless forms of exercise, experts categorize physical activity into four broad types based on what each calls upon your body to do and how the movement benefits you.\n\n
+
+        <b><i>Why is exercise so important?</i></b>\n\n
+        Artificial intelligence algorithms are designed to make decisions, often using real-time data. They are unlike passive machines that are capable only of mechanical or predetermined responses. Using sensors, digital data, or remote inputs, they combine information from a variety of different sources, analyze the material instantly, and act on the insights derived from those data. With massive improvements in storage systems, processing speeds, and analytic techniques, they are capable of tremendous sophistication in analysis and decision making.\n\n
+
+        <b><i>How much exercise do I need?</i></b>\n\n
+        How much exercise you should be getting depends on several factors, including your current level of fitness, your fitness goals, the types of exercise you’re planning to do, and whether you have deficits in such areas as strength, flexibility or balance.\n
+        As a general rule, 150 minutes of moderate intensity aerobic activity (or 75 minutes of vigorous exercise) is recommended as a weekly minimum. As you become more fit, you’ll want to exceed that in order to reap maximum benefit. A natural way of splitting up the 150 minutes might be to do a 30-minute session five times per week, or you can break it up and do two 15-minute sessions during a single day. Adopt whatever schedule fits your lifestyle.\n
+        For strength exercises, aim to work all your major muscle groups twice to three times each week, leaving 48 hours between each workout for recovery. If you do “total-body” workouts, that’s two sessions per week. If you choose to split your workouts to target a specific muscle group (e.g., “leg day”), that will require more frequent workouts. Just make sure you’re leaving 48 hours of rest before you re-work a major muscle.\n\n
+        <b>Reference:</b>\n
+       https://www.health.harvard.edu/topics/exercise-and-fitness
+    </string>
+</resources>
